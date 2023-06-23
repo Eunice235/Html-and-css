@@ -1,0 +1,46 @@
+body{
+    background-color: azure;
+    background-image: url("paper.gif");
+}
+.basics{
+    border: 5px solid black ;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    padding: 1%;
+    float: left;
+    
+    
+
+}
+.lists{
+    border: 5px solid black ;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    padding: 1%;
+    float: right;
+}
+.forms{
+    border: 5px solid black ;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    padding: 1%;
+    float: inline-start;
+}
+.images{
+    border: 5px solid black ;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    padding: 1%;
+   
+}
+.tables{
+    border: 5px solid black ;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    padding: 1%;
+}
